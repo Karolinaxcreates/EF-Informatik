@@ -6,7 +6,7 @@
 
 ## _**Some stuff about me, to know me better!**_
 
-### - *My favorite*...
+### *My favorite* . . .
   ##  __.hobbies:__
 >   - learning computer science 
 >   - drawing
