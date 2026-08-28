@@ -15,11 +15,11 @@
  >   - minecraft
    > - genshin impact
     >- roblox
-    ![Roblox](EF-INFORMATIK/Images-Markdown/Roblox.png)
+    ![Roblox](./images/Roblox.png)
   ## __.movies:__
 >    - [Your name](https://en.wikipedia.org/wiki/Your_Name)
     >- [Parasite](https://en.wikipedia.org/wiki/Parasite_2019_film)
-   > - [Princess mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke)
+    > - [Princess mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke)
   ## __.reasons to learn computer science:__
   >  - to be more advanced, when it comes to the usage of elektronics
       >  - making own websites
